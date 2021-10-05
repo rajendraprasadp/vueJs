@@ -2,6 +2,7 @@
   <div>
     <ClickCounter />
     <HoverCounter />
+    <h2>hi</h2>
   </div>
 </template>
 
